@@ -1,350 +1,194 @@
-[17:20:21] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[17:20:21] [Server thread/INFO]: Loading properties
-[17:20:22] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-8887c5f-06efc9e (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
-[17:20:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:20:22] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:20:22] [Server thread/INFO]: Debug logging is disabled
-[17:20:22] [Server thread/INFO]: Default game type: SURVIVAL
-[17:20:22] [Server thread/INFO]: Generating keypair
-[17:20:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:20:23] [Server thread/INFO]: Using epoll channel type
-[17:20:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:20:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:20:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:20:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:20:23] [Server thread/INFO]: Preparing level "LameWorld"
-[17:20:23] [Server thread/INFO]: Found new data pack file/bukkit, loading it automatically
-[17:20:23] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
-[17:20:24] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[17:20:27] [Server thread/INFO]: Loaded 6 recipes
-[17:20:28] [Server thread/INFO]: -------- World Settings For [LameWorld] --------
-[17:20:28] [Server thread/INFO]: Experience Merge Radius: 3.0
-[17:20:28] [Server thread/INFO]: Mob Spawn Range: 6
-[17:20:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[17:20:28] [Server thread/INFO]: Cane Growth Modifier: 100%
-[17:20:28] [Server thread/INFO]: Melon Growth Modifier: 100%
-[17:20:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[17:20:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[17:20:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[17:20:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[17:20:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[17:20:28] [Server thread/INFO]: Potato Growth Modifier: 100%
-[17:20:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[17:20:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[17:20:28] [Server thread/INFO]: Vine Growth Modifier: 100%
-[17:20:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[17:20:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[17:20:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[17:20:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[17:20:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[17:20:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[17:20:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[17:20:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[17:20:28] [Server thread/INFO]: Max TNT Explosions: 100
-[17:20:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:20:28] [Server thread/INFO]: View Distance: 10
-[17:20:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[17:20:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:20:28] [Server thread/INFO]: Item Despawn Rate: 6000
-[17:20:28] [Server thread/INFO]: Item Merge Radius: 2.5
-[17:20:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[17:20:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[17:21:04] [Server thread/INFO]: -------- World Settings For [LameWorld_nether] --------
-[17:21:04] [Server thread/INFO]: Experience Merge Radius: 3.0
-[17:21:04] [Server thread/INFO]: Mob Spawn Range: 6
-[17:21:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Cane Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Melon Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Potato Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Vine Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[17:21:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[17:21:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[17:21:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[17:21:04] [Server thread/INFO]: Max TNT Explosions: 100
-[17:21:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:21:04] [Server thread/INFO]: View Distance: 10
-[17:21:04] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[17:21:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:21:04] [Server thread/INFO]: Item Despawn Rate: 6000
-[17:21:04] [Server thread/INFO]: Item Merge Radius: 2.5
-[17:21:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[17:21:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[17:21:04] [Server thread/INFO]: -------- World Settings For [LameWorld_the_end] --------
-[17:21:04] [Server thread/INFO]: Experience Merge Radius: 3.0
-[17:21:04] [Server thread/INFO]: Mob Spawn Range: 6
-[17:21:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Cane Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Melon Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Potato Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Vine Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[17:21:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[17:21:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[17:21:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[17:21:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[17:21:04] [Server thread/INFO]: Max TNT Explosions: 100
-[17:21:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:21:04] [Server thread/INFO]: View Distance: 10
-[17:21:04] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[17:21:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:21:04] [Server thread/INFO]: Item Despawn Rate: 6000
-[17:21:04] [Server thread/INFO]: Item Merge Radius: 2.5
-[17:21:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[17:21:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[17:21:04] [Server thread/INFO]: Preparing start region for dimension 'LameWorld'/minecraft:overworld
-[17:21:04] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[17:21:04] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[17:21:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[17:21:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[17:21:06] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[17:21:06] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[17:21:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[17:21:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[17:21:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[17:21:08] [Server-Worker-1/INFO]: Preparing spawn area: 1%
-[17:21:09] [Server-Worker-1/INFO]: Preparing spawn area: 1%
-[17:21:09] [Server-Worker-1/INFO]: Preparing spawn area: 1%
-[17:21:10] [Server-Worker-1/INFO]: Preparing spawn area: 1%
-[17:21:10] [Server-Worker-1/INFO]: Preparing spawn area: 1%
-[17:21:11] [Server-Worker-1/INFO]: Preparing spawn area: 2%
-[17:21:11] [Server-Worker-1/INFO]: Preparing spawn area: 3%
-[17:21:12] [Server-Worker-1/INFO]: Preparing spawn area: 4%
-[17:21:12] [Server-Worker-1/INFO]: Preparing spawn area: 4%
-[17:21:13] [Server-Worker-1/INFO]: Preparing spawn area: 4%
-[17:21:13] [Server-Worker-1/INFO]: Preparing spawn area: 5%
-[17:21:14] [Server-Worker-1/INFO]: Preparing spawn area: 6%
-[17:21:14] [Server-Worker-1/INFO]: Preparing spawn area: 7%
-[17:21:15] [Server-Worker-1/INFO]: Preparing spawn area: 7%
-[17:21:15] [Server-Worker-1/INFO]: Preparing spawn area: 9%
-[17:21:16] [Server-Worker-1/INFO]: Preparing spawn area: 9%
-[17:21:16] [Server-Worker-1/INFO]: Preparing spawn area: 10%
-[17:21:17] [Server-Worker-1/INFO]: Preparing spawn area: 11%
-[17:21:17] [Server-Worker-1/INFO]: Preparing spawn area: 12%
-[17:21:18] [Server-Worker-1/INFO]: Preparing spawn area: 12%
-[17:21:18] [Server-Worker-1/INFO]: Preparing spawn area: 13%
-[17:21:19] [Server-Worker-1/INFO]: Preparing spawn area: 13%
-[17:21:19] [Server-Worker-1/INFO]: Preparing spawn area: 15%
-[17:21:20] [Server-Worker-1/INFO]: Preparing spawn area: 16%
-[17:21:20] [Server-Worker-1/INFO]: Preparing spawn area: 17%
-[17:21:21] [Server-Worker-1/INFO]: Preparing spawn area: 18%
-[17:21:21] [Server-Worker-1/INFO]: Preparing spawn area: 19%
-[17:21:22] [Server-Worker-1/INFO]: Preparing spawn area: 20%
-[17:21:22] [Server-Worker-1/INFO]: Preparing spawn area: 21%
-[17:21:23] [Server-Worker-1/INFO]: Preparing spawn area: 22%
-[17:21:23] [Server-Worker-1/INFO]: Preparing spawn area: 23%
-[17:21:24] [Server-Worker-1/INFO]: Preparing spawn area: 23%
-[17:21:24] [Server-Worker-1/INFO]: Preparing spawn area: 24%
-[17:21:25] [Server-Worker-1/INFO]: Preparing spawn area: 24%
-[17:21:25] [Server-Worker-1/INFO]: Preparing spawn area: 24%
-[17:21:26] [Server-Worker-1/INFO]: Preparing spawn area: 25%
-[17:21:26] [Server-Worker-1/INFO]: Preparing spawn area: 27%
-[17:21:27] [Server-Worker-1/INFO]: Preparing spawn area: 28%
-[17:21:27] [Server-Worker-1/INFO]: Preparing spawn area: 29%
-[17:21:28] [Server-Worker-1/INFO]: Preparing spawn area: 30%
-[17:21:28] [Server-Worker-1/INFO]: Preparing spawn area: 31%
-[17:21:29] [Server-Worker-1/INFO]: Preparing spawn area: 32%
-[17:21:29] [Server-Worker-1/INFO]: Preparing spawn area: 33%
-[17:21:30] [Server-Worker-1/INFO]: Preparing spawn area: 34%
-[17:21:30] [Server-Worker-1/INFO]: Preparing spawn area: 35%
-[17:21:31] [Server-Worker-1/INFO]: Preparing spawn area: 37%
-[17:21:31] [Server-Worker-1/INFO]: Preparing spawn area: 39%
-[17:21:32] [Server-Worker-1/INFO]: Preparing spawn area: 40%
-[17:21:32] [Server-Worker-1/INFO]: Preparing spawn area: 42%
-[17:21:33] [Server-Worker-1/INFO]: Preparing spawn area: 43%
-[17:21:33] [Server-Worker-1/INFO]: Preparing spawn area: 43%
-[17:21:34] [Server-Worker-1/INFO]: Preparing spawn area: 44%
-[17:21:34] [Server-Worker-1/INFO]: Preparing spawn area: 45%
-[17:21:35] [Server-Worker-1/INFO]: Preparing spawn area: 45%
-[17:21:35] [Server-Worker-1/INFO]: Preparing spawn area: 45%
-[17:21:36] [Server-Worker-1/INFO]: Preparing spawn area: 46%
-[17:21:36] [Server-Worker-1/INFO]: Preparing spawn area: 48%
-[17:21:37] [Server-Worker-1/INFO]: Preparing spawn area: 51%
-[17:21:37] [Server-Worker-1/INFO]: Preparing spawn area: 54%
-[17:21:38] [Server-Worker-1/INFO]: Preparing spawn area: 54%
-[17:21:38] [Server-Worker-1/INFO]: Preparing spawn area: 54%
-[17:21:39] [Server-Worker-1/INFO]: Preparing spawn area: 54%
-[17:21:39] [Server-Worker-1/INFO]: Preparing spawn area: 54%
-[17:21:40] [Server-Worker-1/INFO]: Preparing spawn area: 55%
-[17:21:40] [Server-Worker-1/INFO]: Preparing spawn area: 57%
-[17:21:41] [Server-Worker-1/INFO]: Preparing spawn area: 59%
-[17:21:41] [Server-Worker-1/INFO]: Preparing spawn area: 62%
-[17:21:42] [Server-Worker-1/INFO]: Preparing spawn area: 65%
-[17:21:42] [Server-Worker-1/INFO]: Preparing spawn area: 66%
-[17:21:43] [Server-Worker-1/INFO]: Preparing spawn area: 68%
-[17:21:43] [Server-Worker-1/INFO]: Preparing spawn area: 70%
-[17:21:44] [Server-Worker-1/INFO]: Preparing spawn area: 71%
-[17:21:44] [Server-Worker-1/INFO]: Preparing spawn area: 73%
-[17:21:45] [Server-Worker-1/INFO]: Preparing spawn area: 75%
-[17:21:45] [Server-Worker-1/INFO]: Preparing spawn area: 76%
-[17:21:46] [Server-Worker-1/INFO]: Preparing spawn area: 76%
-[17:21:46] [Server-Worker-1/INFO]: Preparing spawn area: 78%
-[17:21:47] [Server-Worker-1/INFO]: Preparing spawn area: 80%
-[17:21:47] [Server-Worker-1/INFO]: Preparing spawn area: 82%
-[17:21:48] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[17:21:48] [Server-Worker-1/INFO]: Preparing spawn area: 85%
-[17:21:49] [Server-Worker-1/INFO]: Preparing spawn area: 86%
-[17:21:49] [Server-Worker-1/INFO]: Preparing spawn area: 89%
-[17:21:50] [Server-Worker-1/INFO]: Preparing spawn area: 91%
-[17:21:50] [Server-Worker-1/INFO]: Preparing spawn area: 93%
-[17:21:51] [Server-Worker-1/INFO]: Preparing spawn area: 94%
-[17:21:51] [Server-Worker-1/INFO]: Preparing spawn area: 96%
-[17:21:52] [Server-Worker-1/INFO]: Preparing spawn area: 98%
-[17:21:52] [Server thread/INFO]: Time elapsed: 48296 ms
-[17:21:52] [Server thread/INFO]: Preparing start region for dimension 'LameWorld_nether'/minecraft:the_nether
-[17:21:54] [Server thread/INFO]: Preparing spawn area: 0%
-[17:21:54] [Server thread/INFO]: Preparing spawn area: 0%
-[17:21:54] [Server thread/INFO]: Preparing spawn area: 0%
-[17:21:54] [Server thread/INFO]: Preparing spawn area: 0%
-[17:21:54] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[17:21:54] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[17:21:55] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[17:21:55] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[17:21:56] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[17:21:56] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[17:21:57] [Server thread/INFO]: Preparing spawn area: 83%
-[17:21:57] [Server-Worker-1/INFO]: Preparing spawn area: 87%
-[17:21:58] [Server-Worker-1/INFO]: Preparing spawn area: 91%
-[17:21:58] [Server-Worker-1/INFO]: Preparing spawn area: 96%
-[17:21:59] [Server thread/INFO]: Time elapsed: 6877 ms
-[17:21:59] [Server thread/INFO]: Preparing start region for dimension 'LameWorld_the_end'/minecraft:the_end
-[17:21:59] [Server thread/INFO]: Preparing spawn area: 0%
-[17:21:59] [Server thread/INFO]: Preparing spawn area: 78%
-[17:22:00] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[17:22:00] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[17:22:01] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[17:22:01] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[17:22:02] [Server-Worker-1/INFO]: Preparing spawn area: 89%
-[17:22:02] [Server thread/INFO]: Time elapsed: 3315 ms
-[17:22:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:22:02] [Server thread/INFO]: Done (99.045s)! For help, type "help"
-[17:22:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5065ms or 101 ticks behind
-[17:23:16] [User Authenticator #1/INFO]: UUID of player vegeto1806 is 60e0bacf-d03a-3e0d-9287-4a8a8a0ce071
-[17:23:17] [Server thread/INFO]: vegeto1806[/13.235.199.181:59106] logged in with entity id 122 at ([LameWorld]48.5, 74.0, 230.5)
-[17:23:49] [User Authenticator #2/INFO]: UUID of player techkid is a2bd8615-5228-33b9-aa7d-6a374de7a84b
-[17:23:49] [Server thread/INFO]: techkid[/115.98.248.201:50438] logged in with entity id 261 at ([LameWorld]42.5, 72.0, 237.5)
-[17:24:14] [Async Chat Thread - #0/INFO]: <vegeto1806> corrct[m
-[17:24:18] [Async Chat Thread - #0/INFO]: <techkid> mmmmmmmmmm[m
-[17:24:19] [Async Chat Thread - #0/INFO]: <vegeto1806> come north east[m
-[17:24:27] [Async Chat Thread - #0/INFO]: <techkid> how do i knw north[m
-[17:24:33] [Async Chat Thread - #0/INFO]: <vegeto1806> F3[m
-[17:24:52] [Async Chat Thread - #0/INFO]: <vegeto1806> wait wtf[m
-[17:24:54] [Async Chat Thread - #0/INFO]: <techkid> wew we can see nametags faraway[m
-[17:25:24] [Async Chat Thread - #0/INFO]: <vegeto1806> ok[m
-[17:25:32] [Async Chat Thread - #0/INFO]: <vegeto1806> so this looks like my world[m
-[17:25:41] [Async Chat Thread - #0/INFO]: <techkid> nothin here sed[m
-[17:25:43] [Async Chat Thread - #0/INFO]: <vegeto1806> probably spawn cordinates different[m
-[17:25:55] [Server thread/WARN]: vegeto1806 moved too quickly! 0.6317053501616527,-1.0,-10.005077365218796
-[17:26:03] [Async Chat Thread - #0/INFO]: <techkid> lmao u teleporting[m
-[17:26:08] [Async Chat Thread - #0/INFO]: <techkid> bed af ping[m
-[17:26:08] [Async Chat Thread - #0/INFO]: <vegeto1806> high pings[m
-[17:26:12] [Async Chat Thread - #0/INFO]: <techkid> sed[m
-[17:26:22] [Async Chat Thread - #0/INFO]: <vegeto1806> wait can I send copy of my world?[m
-[17:26:31] [Async Chat Thread - #0/INFO]: <techkid> to host it?[m
-[17:26:35] [Async Chat Thread - #0/INFO]: <vegeto1806> and you can put that on server?[m
-[17:26:43] [Async Chat Thread - #0/INFO]: <techkid> can[m
-[17:27:00] [Async Chat Thread - #0/INFO]: <vegeto1806> wait I'll check coordinates once[m
-[17:27:04] [Async Chat Thread - #0/INFO]: <techkid> kkk[m
-[17:27:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6511ms or 130 ticks behind
-[17:27:14] [Server thread/INFO]: vegeto1806 lost connection: Disconnected
-[17:27:14] [Server thread/INFO]: vegeto1806 left the game
-[17:27:35] [User Authenticator #3/INFO]: UUID of player vegeto1806 is 60e0bacf-d03a-3e0d-9287-4a8a8a0ce071
-[17:27:35] [Server thread/INFO]: vegeto1806[/13.235.199.181:59400] logged in with entity id 713 at ([LameWorld]109.27789590276957, 62.0, 168.71260336799276)
-[17:28:21] [Async Chat Thread - #1/INFO]: <vegeto1806> follow me[m
-[17:28:36] [Async Chat Thread - #1/INFO]: <vegeto1806> wait nvm[m
-[17:28:46] [Async Chat Thread - #1/INFO]: <vegeto1806> yaar ye bhi alag lag raha[m
-[17:29:21] [Async Chat Thread - #1/INFO]: <vegeto1806> BC[m
-[17:29:25] [Async Chat Thread - #1/INFO]: <vegeto1806> sahi hai[m
-[17:29:30] [Async Chat Thread - #1/INFO]: <vegeto1806> come hereee[m
-[17:29:31] [Async Chat Thread - #1/INFO]: <techkid> re lel was afk[m
-[17:29:39] [Async Chat Thread - #1/INFO]: <vegeto1806> 102 70 266[m
-[17:29:45] [Async Chat Thread - #1/INFO]: <techkid> ok cmng[m
-[17:30:45] [Server thread/INFO]: Teleported techkid to 102.5, 70.0, 266.5
-[17:30:54] [Async Chat Thread - #2/INFO]: <techkid> wr u[m
-[17:30:55] [Async Chat Thread - #2/INFO]: <vegeto1806> where[m
-[17:31:01] [Async Chat Thread - #2/INFO]: <vegeto1806> on tower[m
-[17:31:13] [Async Chat Thread - #2/INFO]: <vegeto1806> above[m
-[17:31:15] [Async Chat Thread - #2/INFO]: <techkid> kkk[m
-[17:31:26] [Async Chat Thread - #2/INFO]: <vegeto1806> saw ship? XD[m
-[17:31:28] [Async Chat Thread - #2/INFO]: <techkid> dafak how u got wood alrdy[m
-[17:31:33] [Async Chat Thread - #2/INFO]: <techkid> wew[m
-[17:31:42] [Async Chat Thread - #2/INFO]: <vegeto1806> mined one tree re[m
-[17:31:56] [Async Chat Thread - #2/INFO]: <techkid> noice place[m
-[17:33:25] [Server thread/INFO]: vegeto1806 lost connection: Timed out
-[17:33:25] [Server thread/INFO]: vegeto1806 left the game
-[17:34:48] [User Authenticator #4/INFO]: UUID of player vegeto1806 is 60e0bacf-d03a-3e0d-9287-4a8a8a0ce071
-[17:34:49] [Server thread/INFO]: vegeto1806[/13.235.199.181:59902] logged in with entity id 1349 at ([LameWorld]118.68157234730187, 62.0, 287.67946160476316)
-[17:37:43] [Server thread/INFO]: techkid has made the advancement [Acquire Hardware]
-[17:37:59] [Server thread/INFO]: vegeto1806 has made the advancement [Diamonds!]
-[17:37:59] [Server thread/INFO]: vegeto1806 has made the advancement [Acquire Hardware]
-[17:38:07] [Async Chat Thread - #3/INFO]: <techkid> kek[m
-[17:38:36] [Async Chat Thread - #3/INFO]: <vegeto1806> can setup base above here[m
-[17:38:53] [Async Chat Thread - #3/INFO]: <techkid> maibi somewat awai[m
-[17:39:45] [Async Chat Thread - #3/INFO]: <vegeto1806> come in, temporary day1 house[m
-[17:39:52] [Async Chat Thread - #3/INFO]: <techkid> lel[m
-[17:41:01] [Async Chat Thread - #4/INFO]: <vegeto1806> I spotted a light tower in southeast[m
-[17:41:06] [Async Chat Thread - #4/INFO]: <vegeto1806> lets check it out[m
-[17:41:10] [Async Chat Thread - #4/INFO]: <vegeto1806> at day[m
-[17:41:20] [Async Chat Thread - #4/INFO]: <techkid> dafak light tower is[m
-[17:41:21] [Async Chat Thread - #4/INFO]: <vegeto1806> could be village or tomb[m
-[17:41:24] [Async Chat Thread - #4/INFO]: <techkid> kkk[m
-[17:41:26] [Async Chat Thread - #4/INFO]: <vegeto1806> are[m
-[17:41:32] [Async Chat Thread - #4/INFO]: <techkid> w8 for mrng[m
-[17:41:49] [Async Chat Thread - #4/INFO]: <vegeto1806> those lights we find in cities[m
-[17:42:04] [Async Chat Thread - #4/INFO]: <vegeto1806> with torches[m
-[17:42:16] [Async Chat Thread - #4/INFO]: <techkid> le[m
-[17:42:21] [Async Chat Thread - #4/INFO]: <vegeto1806> come[m
-[17:42:57] [Server thread/INFO]: techkid has made the advancement [Monster Hunter]
-[17:43:38] [Async Chat Thread - #5/INFO]: <vegeto1806> village lol[m
-[17:44:39] [Async Chat Thread - #6/INFO]: <techkid> meh nothin to loot[m
-[17:45:23] [Async Chat Thread - #6/INFO]: <vegeto1806> noice village tho[m
-[17:45:30] [Async Chat Thread - #6/INFO]: <techkid> ye[m
-[17:45:55] [Async Chat Thread - #6/INFO]: <techkid> waw tortise[m
-[17:45:59] [Server thread/INFO]: vegeto1806 has made the advancement [A Seedy Place]
-[17:46:05] [Async Chat Thread - #6/INFO]: <vegeto1806> let them mate XD[m
-[17:47:09] [Async Chat Thread - #7/INFO]: <vegeto1806> this is the tower I saw from far lol[m
-[17:47:14] [Async Chat Thread - #7/INFO]: <techkid> rip[m
-[17:47:18] [Server thread/WARN]: techkid moved too quickly! 10.204921827014942,0.0,1.2197898236063907
-[17:48:13] [Async Chat Thread - #7/INFO]: <vegeto1806> cat here[m
-[17:48:22] [Async Chat Thread - #7/INFO]: <techkid> ye turtoise too[m
-[17:49:35] [Async Chat Thread - #8/INFO]: <vegeto1806> re cant play in this lag[m
-[17:49:40] [Async Chat Thread - #8/INFO]: <techkid> sed[m
-[17:49:51] [Async Chat Thread - #8/INFO]: <techkid> ye breaking things hard af[m
-[17:49:51] [Async Chat Thread - #8/INFO]: <vegeto1806> me teleporting behind[m
-[17:50:02] [Async Chat Thread - #8/INFO]: <techkid> kkka[m
-[17:50:12] [Async Chat Thread - #8/INFO]: <vegeto1806> take all stuff from me[m
-[17:50:23] [Async Chat Thread - #8/INFO]: <techkid> wuy[m
-[17:52:25] [Async Chat Thread - #9/INFO]: <vegeto1806> barma where you[m
-[17:52:30] [Async Chat Thread - #9/INFO]: <techkid> fish[m
-[17:52:49] [Async Chat Thread - #9/INFO]: <vegeto1806> take this[m
-[17:52:59] [Async Chat Thread - #9/INFO]: <vegeto1806> ooo[m
-[17:53:12] [Server thread/INFO]: techkid has made the advancement [Diamonds!]
-[17:53:30] [Async Chat Thread - #9/INFO]: <vegeto1806> me play later[m
-[17:53:35] [Async Chat Thread - #9/INFO]: <techkid> kkk[m
-[17:53:45] [Async Chat Thread - #9/INFO]: <vegeto1806> will see if I can do something about this ping[m
-[17:53:48] [Async Chat Thread - #9/INFO]: <techkid> sed[m
-[17:53:53] [Server thread/INFO]: vegeto1806 lost connection: Disconnected
-[17:53:53] [Server thread/INFO]: vegeto1806 left the game
-[17:56:10] [Server thread/INFO]: techkid lost connection: Disconnected
-[17:56:10] [Server thread/INFO]: techkid left the game
+[11:45:27] [User Authenticator #5/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[11:45:27] [Server thread/INFO]: RemiNaz[/116.68.78.152:10042] logged in with entity id 3268 at ([LameWorld]52.5, 71.0, 239.5)
+[11:45:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9700ms or 194 ticks behind
+[11:48:15] [Server thread/INFO]: RemiNaz lost connection: Disconnected
+[11:48:15] [Server thread/INFO]: RemiNaz left the game
+[11:48:18] [User Authenticator #6/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[11:48:18] [Server thread/INFO]: RemiNaz[/116.68.78.152:36019] logged in with entity id 3630 at ([LameWorld]29.931510728198656, 69.0, 278.42493627777924)
+[11:57:18] [Server thread/INFO]: RemiNaz has made the advancement [Monster Hunter]
+[11:58:46] [Server thread/INFO]: RemiNaz was slain by Drowned
+[12:02:30] [Server thread/INFO]: RemiNaz was slain by Zombie
+[12:18:49] [Server thread/INFO]: RemiNaz has made the advancement [Stone Age]
+[12:28:48] [Server thread/INFO]: RemiNaz hit the ground too hard
+[12:33:35] [Server thread/INFO]: RemiNaz lost connection: Disconnected
+[12:33:35] [Server thread/INFO]: RemiNaz left the game
+[12:33:43] [User Authenticator #7/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[12:33:43] [Server thread/INFO]: RemiNaz[/116.68.78.152:3088] logged in with entity id 7357 at ([LameWorld]54.861873887731974, 60.0, 190.3000000119209)
+[12:33:50] [Server thread/INFO]: RemiNaz lost connection: Disconnected
+[12:33:50] [Server thread/INFO]: RemiNaz left the game
+[12:57:34] [User Authenticator #8/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[12:57:34] [Server thread/INFO]: RemiNaz[/116.68.78.152:54779] logged in with entity id 7389 at ([LameWorld]54.861873887731974, 60.0, 190.3000000119209)
+[13:01:56] [Server thread/INFO]: RemiNaz was blown up by Creeper
+[13:04:05] [Server thread/INFO]: RemiNaz lost connection: Disconnected
+[13:04:05] [Server thread/INFO]: RemiNaz left the game
+[13:54:08] [User Authenticator #9/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[13:54:08] [Server thread/INFO]: RemiNaz[/116.68.78.152:44598] logged in with entity id 8093 at ([LameWorld]121.51201084807448, 61.79237876269747, 7.488716086374227)
+[13:56:05] [Server thread/INFO]: RemiNaz fell from a high place
+[13:58:15] [Server thread/INFO]: RemiNaz lost connection: Disconnected
+[13:58:15] [Server thread/INFO]: RemiNaz left the game
+[14:30:23] [User Authenticator #10/INFO]: UUID of player TurboVirgin is b219e6d0-ba9b-31e4-8fbb-317593d757c7
+[14:30:23] [Server thread/INFO]: TurboVirgin[/223.189.2.171:6618] logged in with entity id 8623 at ([LameWorld]51.5, 72.0, 236.5)
+[14:31:50] [Server thread/WARN]: TurboVirgin moved wrongly!
+[14:32:38] [Server thread/INFO]: TurboVirgin has made the advancement [Monster Hunter]
+[14:35:04] [Server thread/INFO]: TurboVirgin lost connection: Timed out
+[14:35:04] [Server thread/INFO]: TurboVirgin left the game
+[14:36:55] [User Authenticator #11/INFO]: UUID of player techkid is a2bd8615-5228-33b9-aa7d-6a374de7a84b
+[14:36:55] [Server thread/INFO]: techkid[/115.98.248.201:50090] logged in with entity id 8828 at ([LameWorld]304.8587148885364, 71.0, 389.30000001192093)
+[14:39:29] [Server thread/INFO]: techkid lost connection: Disconnected
+[14:39:29] [Server thread/INFO]: techkid left the game
+[14:43:22] [User Authenticator #12/INFO]: UUID of player TurboVirgin is b219e6d0-ba9b-31e4-8fbb-317593d757c7
+[14:43:22] [Server thread/INFO]: TurboVirgin[/223.189.2.171:6757] logged in with entity id 9064 at ([LameWorld]55.531465407103994, 59.0, 190.46132908242012)
+[14:49:01] [Server thread/INFO]: TurboVirgin hit the ground too hard
+[15:08:16] [User Authenticator #13/INFO]: UUID of player TurboVirgin is b219e6d0-ba9b-31e4-8fbb-317593d757c7
+[15:08:16] [Server thread/INFO]: TurboVirgin lost connection: You logged in from another location
+[15:08:16] [Server thread/INFO]: TurboVirgin left the game
+[15:08:16] [Server thread/INFO]: TurboVirgin[/223.189.2.171:6734] logged in with entity id 10591 at ([LameWorld]115.81656382163797, 61.875, 295.93760180845493)
+[15:11:11] [Server thread/INFO]: TurboVirgin has made the advancement [Acquire Hardware]
+[15:17:16] [User Authenticator #14/INFO]: UUID of player DEDM8 is fb333c02-8df1-3f45-88aa-d8b20d10b73f
+[15:17:16] [Server thread/INFO]: DEDM8[/137.97.65.192:50314] logged in with entity id 11090 at ([LameWorld]52.5, 71.0, 239.5)
+[15:17:22] [Async Chat Thread - #10/INFO]: <DEDM8> hoi[m
+[15:17:43] [Async Chat Thread - #10/INFO]: <DEDM8> ummm[m
+[15:17:50] [Async Chat Thread - #10/INFO]: <DEDM8> where do i start[m
+[15:18:07] [Async Chat Thread - #10/INFO]: <TurboVirgin> bhait[m
+[15:18:20] [Server thread/INFO]: DEDM8 was shot by Skeleton
+[15:18:23] [Async Chat Thread - #10/INFO]: <TurboVirgin> come to 105 64 288[m
+[15:18:24] [Async Chat Thread - #10/INFO]: <DEDM8> fek[m
+[15:18:42] [Async Chat Thread - #10/INFO]: <TurboVirgin> And you can build anywhere around the ship wreck[m
+[15:19:03] [User Authenticator #15/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[15:19:03] [Server thread/INFO]: RemiNaz[/116.68.78.152:26432] logged in with entity id 11343 at ([LameWorld]37.933386917901984, 64.0, 293.375395916504)
+[15:19:28] [Server thread/INFO]: RemiNaz lost connection: Timed out
+[15:19:28] [Server thread/INFO]: RemiNaz left the game
+[15:19:32] [Async Chat Thread - #10/INFO]: <DEDM8> wau[m
+[15:19:42] [User Authenticator #16/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[15:19:42] [Server thread/INFO]: RemiNaz[/116.68.78.152:52959] logged in with entity id 11385 at ([LameWorld]41.11042749343105, 64.02442408821369, 290.9682016813085)
+[15:19:46] [Server thread/INFO]: RemiNaz was slain by Zombie
+[15:20:07] [Server thread/INFO]: RemiNaz lost connection: Timed out
+[15:20:07] [Server thread/INFO]: RemiNaz left the game
+[15:20:42] [User Authenticator #17/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[15:20:42] [Server thread/INFO]: RemiNaz[/116.68.78.152:46215] logged in with entity id 11393 at ([LameWorld]41.11042749343105, 64.0, 290.9682016813085)
+[15:20:57] [Server thread/INFO]: RemiNaz lost connection: Disconnected
+[15:20:57] [Server thread/INFO]: RemiNaz left the game
+[15:21:02] [Async Chat Thread - #10/INFO]: <DEDM8> lol[m
+[15:21:02] [User Authenticator #18/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[15:21:03] [Server thread/INFO]: RemiNaz[/116.68.78.152:29001] logged in with entity id 11497 at ([LameWorld]53.5, 69.0, 245.5)
+[15:21:06] [Async Chat Thread - #10/INFO]: <DEDM8> dey[m
+[15:21:14] [Async Chat Thread - #10/INFO]: <DEDM8> wew[m
+[15:21:16] [Async Chat Thread - #10/INFO]: <RemiNaz> dudes[m
+[15:21:18] [Async Chat Thread - #10/INFO]: <TurboVirgin> This is moi hum i claimed it[m
+[15:21:22] [Async Chat Thread - #10/INFO]: <DEDM8> kek[m
+[15:21:32] [Async Chat Thread - #10/INFO]: <DEDM8> where i live?[m
+[15:21:32] [Async Chat Thread - #10/INFO]: <TurboVirgin> Ded take all that loot[m
+[15:21:49] [Async Chat Thread - #10/INFO]: <DEDM8> ill die soon[m
+[15:21:54] [Async Chat Thread - #10/INFO]: <TurboVirgin> Found it in the ship itself lel[m
+[15:21:54] [Async Chat Thread - #10/INFO]: <RemiNaz> ded wer u[m
+[15:21:54] [Async Chat Thread - #10/INFO]: <DEDM8> let this be here[m
+[15:22:15] [Async Chat Thread - #10/INFO]: <DEDM8> 105 64 288[m
+[15:22:28] [Async Chat Thread - #10/INFO]: <RemiNaz> how do i find that[m
+[15:22:37] [Async Chat Thread - #10/INFO]: <DEDM8> server laggin hmmmm[m
+[15:22:44] [Async Chat Thread - #10/INFO]: <DEDM8> F3 press chey[m
+[15:22:46] [Async Chat Thread - #10/INFO]: <RemiNaz> yea[m
+[15:22:57] [Async Chat Thread - #10/INFO]: <RemiNaz> oooooooooo[m
+[15:23:05] [Async Chat Thread - #10/INFO]: <RemiNaz> goddamn[m
+[15:23:33] [Async Chat Thread - #10/INFO]: <DEDM8> turbo whose hous is dis?[m
+[15:24:22] [Async Chat Thread - #10/INFO]: <TurboVirgin> DONT BLOW UP MOI HOUSE[m
+[15:24:26] [Async Chat Thread - #10/INFO]: <DEDM8> nu[m
+[15:24:33] [Async Chat Thread - #10/INFO]: <DEDM8> creeper blew in water[m
+[15:24:38] [Async Chat Thread - #10/INFO]: <RemiNaz> dey blovk aana nokenda[m
+[15:25:00] [Server thread/INFO]: DEDM8 has made the advancement [Acquire Hardware]
+[15:25:17] [Async Chat Thread - #10/INFO]: <RemiNaz> ith nthonn[m
+[15:25:20] [Async Chat Thread - #10/INFO]: <TurboVirgin> Wait ill make you a room inside my ship wreck[m
+[15:27:12] [Async Chat Thread - #11/INFO]: <DEDM8> noice[m
+[15:27:43] [Async Chat Thread - #11/INFO]: <TurboVirgin> Move lemme clear water[m
+[15:27:48] [Async Chat Thread - #11/INFO]: <RemiNaz> daaaa[m
+[15:27:51] [Async Chat Thread - #11/INFO]: <DEDM8> ye[m
+[15:27:55] [Async Chat Thread - #11/INFO]: <RemiNaz> ne evida[m
+[15:28:05] [Async Chat Thread - #11/INFO]: <DEDM8> near spawn[m
+[15:28:12] [Async Chat Thread - #11/INFO]: <RemiNaz> goddamn[m
+[15:28:39] [Server thread/INFO]: DEDM8 has made the advancement [Not Today, Thank You]
+[15:28:42] [Server thread/INFO]: DEDM8 has made the advancement [Monster Hunter]
+[15:30:27] [Async Chat Thread - #12/INFO]: <RemiNaz> da[m
+[15:30:30] [Async Chat Thread - #12/INFO]: <DEDM8> nice[m
+[15:30:35] [Async Chat Thread - #12/INFO]: <DEDM8> ye[m
+[15:30:42] [Async Chat Thread - #12/INFO]: <RemiNaz> nik help venam[m
+[15:30:51] [Async Chat Thread - #12/INFO]: <DEDM8> yeh[m
+[15:30:56] [Async Chat Thread - #12/INFO]: <RemiNaz> njan nerthe kore cheyth vann enna konn[m
+[15:30:57] [Async Chat Thread - #12/INFO]: <DEDM8> nah[m
+[15:31:02] [Async Chat Thread - #12/INFO]: <DEDM8> let it be there[m
+[15:31:12] [Async Chat Thread - #12/INFO]: <DEDM8> turbo[m
+[15:32:01] [Async Chat Thread - #12/INFO]: <TurboVirgin> Done[m
+[15:32:08] [Async Chat Thread - #12/INFO]: <TurboVirgin> This is your room[m
+[15:32:11] [Async Chat Thread - #12/INFO]: <RemiNaz> da enna kaanan ngana blonde aana[m
+[15:32:20] [Async Chat Thread - #12/INFO]: <DEDM8> nee evide chatha remi[m
+[15:32:31] [Async Chat Thread - #12/INFO]: <RemiNaz> va[m
+[15:32:32] [Async Chat Thread - #12/INFO]: <DEDM8> well fek[m
+[15:32:50] [Async Chat Thread - #12/INFO]: <RemiNaz> wait lemme remember[m
+[15:32:59] [Async Chat Thread - #12/INFO]: <RemiNaz> haa there[m
+[15:33:10] [Async Chat Thread - #12/INFO]: <DEDM8> wait rathri aayi raavile poovam[m
+[15:33:17] [Async Chat Thread - #12/INFO]: <RemiNaz> ojkkk[m
+[15:34:50] [Async Chat Thread - #13/INFO]: <RemiNaz> bed ngana[m
+[15:35:01] [Async Chat Thread - #13/INFO]: <RemiNaz> ondakum nthokke venam[m
+[15:35:17] [Async Chat Thread - #13/INFO]: <DEDM8> kill 3 sheep + 3 wood planks[m
+[15:35:37] [Async Chat Thread - #13/INFO]: <TurboVirgin> Oh[m
+[15:35:39] [Async Chat Thread - #13/INFO]: <RemiNaz> okkk lemme see rathri aayi chaavum njan[m
+[15:36:39] [Async Chat Thread - #14/INFO]: <DEDM8> dorya u use gpu for optifine?[m
+[15:36:46] [Async Chat Thread - #14/INFO]: <DEDM8> dedicated*[m
+[15:37:06] [Async Chat Thread - #14/INFO]: <RemiNaz> ath nthonn[m
+[15:37:06] [Async Chat Thread - #14/INFO]: <TurboVirgin> i dont have gpu... currently playing on Vega 8[m
+[15:39:34] [Async Chat Thread - #15/INFO]: <RemiNaz> da nta right side item koranj ath nthva[m
+[15:39:44] [Async Chat Thread - #15/INFO]: <DEDM8> eh[m
+[15:39:46] [Async Chat Thread - #15/INFO]: <RemiNaz> im not sprinting anymore[m
+[15:39:55] [Async Chat Thread - #15/INFO]: <DEDM8> low hungr[m
+[15:40:00] [Async Chat Thread - #15/INFO]: <RemiNaz> glass[m
+[15:40:05] [Async Chat Thread - #15/INFO]: <RemiNaz> okkkk[m
+[15:41:18] [Server thread/INFO]: DEDM8 was shot by Skeleton
+[15:41:28] [Async Chat Thread - #16/INFO]: <TurboVirgin> cake[m
+[15:41:32] [Async Chat Thread - #16/INFO]: <DEDM8> sed[m
+[15:41:33] [Async Chat Thread - #16/INFO]: <RemiNaz> lol[m
+[15:43:08] [Server thread/INFO]: DEDM8 was blown up by Creeper
+[15:43:14] [Async Chat Thread - #17/INFO]: <DEDM8> v nice[m
+[15:43:34] [Async Chat Thread - #17/INFO]: <DEDM8> 3 skeletons + zombie + creeper mid day[m
+[15:43:39] [Server thread/INFO]: RemiNaz drowned
+[15:43:48] [Async Chat Thread - #17/INFO]: <RemiNaz> thanks[m
+[15:44:24] [Server thread/INFO]: RemiNaz lost connection: Timed out
+[15:44:24] [Server thread/INFO]: RemiNaz left the game
+[15:44:38] [User Authenticator #19/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[15:44:38] [Server thread/INFO]: RemiNaz[/116.68.78.152:10298] logged in with entity id 13783 at ([LameWorld]64.78714329961716, 70.0, 235.8215407453915)
+[15:47:30] [Async Chat Thread - #18/INFO]: <DEDM8> wtf[m
+[15:47:34] [Async Chat Thread - #18/INFO]: <TurboVirgin> DED I KEPT ALL LOOT IN YOUR CHEST[m
+[15:47:36] [Async Chat Thread - #18/INFO]: <RemiNaz> wat[m
+[15:47:37] [Async Chat Thread - #18/INFO]: <DEDM8> mobs still spawn in 3[m
+[15:48:09] [Async Chat Thread - #18/INFO]: <DEDM8> brb[m
+[15:48:11] [Server thread/INFO]: DEDM8 lost connection: Disconnected
+[15:48:11] [Server thread/INFO]: DEDM8 left the game
+[15:49:46] [Server thread/INFO]: TurboVirgin has made the advancement [Stone Age]
+[15:51:33] [Server thread/INFO]: TurboVirgin has made the advancement [Getting an Upgrade]
+[15:53:01] [Server thread/INFO]: RemiNaz has made the advancement [Getting an Upgrade]
+[15:53:07] [Async Chat Thread - #19/INFO]: <RemiNaz> thanks[m
+[15:53:15] [Async Chat Thread - #19/INFO]: <TurboVirgin> NP[m
+[15:54:08] [Server thread/INFO]: RemiNaz lost connection: Disconnected
+[15:54:08] [Server thread/INFO]: RemiNaz left the game
+[15:54:40] [User Authenticator #20/INFO]: UUID of player DEDM8 is fb333c02-8df1-3f45-88aa-d8b20d10b73f
+[15:54:40] [Server thread/INFO]: DEDM8[/137.97.65.192:54370] logged in with entity id 14682 at ([LameWorld]104.53739372399455, 68.0, 274.1091273740033)
+[15:55:14] [Async Chat Thread - #20/INFO]: <DEDM8> wew finally figured out how to use gpu with optifine[m
+[15:57:02] [Server thread/INFO]: DEDM8 lost connection: Disconnected
+[15:57:02] [Server thread/INFO]: DEDM8 left the game
+[15:57:29] [User Authenticator #21/INFO]: UUID of player DEDM8 is fb333c02-8df1-3f45-88aa-d8b20d10b73f
+[15:57:29] [Server thread/INFO]: DEDM8[/137.97.65.192:54434] logged in with entity id 14855 at ([LameWorld]118.67730834790574, 62.0, 289.7417887810633)
+[15:59:46] [Async Chat Thread - #21/INFO]: <DEDM8> sed net sloe af[m
+[16:01:24] [Async Chat Thread - #22/INFO]: <DEDM8> dorya check this out 3 skeletons, maibi 3 creepers[m
+[16:02:30] [Async Chat Thread - #23/INFO]: <TurboVirgin> brb[m
+[16:02:33] [Server thread/INFO]: TurboVirgin lost connection: Disconnected
+[16:02:33] [Server thread/INFO]: TurboVirgin left the game
+[16:11:11] [Server thread/INFO]: DEDM8 has made the advancement [Stone Age]
+[16:12:41] [Server thread/INFO]: DEDM8 lost connection: Disconnected
+[16:12:41] [Server thread/INFO]: DEDM8 left the game
+[16:24:56] [User Authenticator #22/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[16:24:56] [Server thread/INFO]: RemiNaz[/116.68.78.152:34905] logged in with entity id 15788 at ([LameWorld]121.64989308214648, 63.0, 341.74052074269605)
+[16:31:20] [Server thread/INFO]: RemiNaz fell from a high place
+[16:32:06] [Server thread/INFO]: RemiNaz lost connection: Disconnected
+[16:32:06] [Server thread/INFO]: RemiNaz left the game
+[20:00:32] [User Authenticator #23/INFO]: UUID of player TurboVirgin is b219e6d0-ba9b-31e4-8fbb-317593d757c7
+[20:00:32] [Server thread/INFO]: TurboVirgin[/110.224.34.85:3055] logged in with entity id 16478 at ([LameWorld]115.29203417344972, 61.0, 294.75400766915436)
+[20:29:08] [Server thread/INFO]: TurboVirgin has made the advancement [A Seedy Place]
+[20:56:39] [Server thread/INFO]: TurboVirgin lost connection: Disconnected
+[20:56:39] [Server thread/INFO]: TurboVirgin left the game
