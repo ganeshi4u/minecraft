@@ -1,4 +1,47 @@
-[15:31:19] [User Authenticator #24/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
-[15:31:19] [Server thread/INFO]: RemiNaz[/137.97.81.226:62165] logged in with entity id 20285 at ([LameWorld]68.42047825690403, 58.0, 199.96264561872434)
-[15:31:44] [Server thread/INFO]: RemiNaz lost connection: Timed out
-[15:31:44] [Server thread/INFO]: RemiNaz left the game
+[15:19:11] [User Authenticator #25/INFO]: UUID of player sanoj is 673a3ab2-f840-3fd7-9a8a-154eb33e8bd1
+[15:19:11] [Server thread/INFO]: sanoj[/113.193.51.6:49771] logged in with entity id 20338 at ([LameWorld]40.5, 74.0, 233.5)
+[15:23:48] [User Authenticator #26/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[15:23:48] [Server thread/INFO]: RemiNaz[/137.97.34.238:57725] logged in with entity id 20702 at ([LameWorld]53.5, 72.02159847259522, 231.5)
+[15:23:58] [Async Chat Thread - #24/INFO]: <sanoj> yo broiii\[m
+[15:24:10] [Async Chat Thread - #24/INFO]: <sanoj> jzt justed mn[m
+[15:24:16] [Async Chat Thread - #24/INFO]: <sanoj> now*[m
+[15:24:26] [Async Chat Thread - #24/INFO]: <RemiNaz> yesss[m
+[15:24:26] [Async Chat Thread - #25/INFO]: <RemiNaz> wer u[m
+[15:24:30] [Async Chat Thread - #25/INFO]: <sanoj> just started now[m
+[15:24:35] [Async Chat Thread - #25/INFO]: <sanoj> vittil[m
+[15:24:44] [Async Chat Thread - #25/INFO]: <sanoj> ohh in gAME[m
+[15:25:10] [Server thread/INFO]: RemiNaz lost connection: Timed out
+[15:25:10] [Server thread/INFO]: RemiNaz left the game
+[15:25:10] [Async Chat Thread - #25/INFO]: <sanoj> idk where i am[m
+[15:25:21] [User Authenticator #27/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[15:25:21] [Server thread/INFO]: RemiNaz[/137.97.34.238:57791] logged in with entity id 20969 at ([LameWorld]59.01794921487384, 71.0, 266.8777920593983)
+[15:25:39] [Async Chat Thread - #25/INFO]: <sanoj> wer r u?[m
+[15:25:46] [Server thread/INFO]: RemiNaz lost connection: Timed out
+[15:25:46] [Server thread/INFO]: RemiNaz left the game
+[15:25:51] [User Authenticator #28/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[15:25:51] [Server thread/INFO]: RemiNaz[/137.97.34.238:57813] logged in with entity id 21021 at ([LameWorld]59.01794921487384, 71.0, 266.8777920593983)
+[15:25:59] [Async Chat Thread - #25/INFO]: <sanoj> net lag huh?[m
+[15:26:14] [Async Chat Thread - #25/INFO]: <RemiNaz> yes[m
+[15:26:19] [Async Chat Thread - #25/INFO]: <sanoj> hmm[m
+[15:27:37] [Async Chat Thread - #26/INFO]: <sanoj> wer r u?[m
+[15:28:06] [Server thread/WARN]: RemiNaz moved too quickly! 4.639172792021071,3.2468000194787976,-8.417569419273686
+[15:28:23] [Async Chat Thread - #26/INFO]: <RemiNaz> a mountain top[m
+[15:30:15] [Server thread/INFO]: RemiNaz lost connection: Timed out
+[15:30:15] [Server thread/INFO]: RemiNaz left the game
+[15:30:22] [User Authenticator #29/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[15:30:22] [Server thread/INFO]: RemiNaz[/137.97.34.238:58035] logged in with entity id 21870 at ([LameWorld]171.11697618245034, 85.09835927353836, 4.858045276760725)
+[15:31:03] [Server thread/INFO]: RemiNaz lost connection: Disconnected
+[15:31:03] [Server thread/INFO]: RemiNaz left the game
+[15:35:21] [Server thread/INFO]: sanoj has made the advancement [Getting an Upgrade]
+[15:36:51] [Server thread/INFO]: sanoj was blown up by Creeper
+[15:37:07] [Server thread/INFO]: sanoj lost connection: Timed out
+[15:37:07] [Server thread/INFO]: sanoj left the game
+[15:37:12] [User Authenticator #30/INFO]: UUID of player sanoj is 673a3ab2-f840-3fd7-9a8a-154eb33e8bd1
+[15:37:12] [Server thread/INFO]: sanoj[/113.193.51.6:50019] logged in with entity id 22581 at ([LameWorld]84.7692303623577, 65.0, 210.62008687096912)
+[15:37:56] [Server thread/INFO]: sanoj lost connection: Disconnected
+[15:37:56] [Server thread/INFO]: sanoj left the game
+[16:30:41] [User Authenticator #31/INFO]: UUID of player techkid is a2bd8615-5228-33b9-aa7d-6a374de7a84b
+[16:30:42] [Server thread/INFO]: techkid[/115.98.248.201:52383] logged in with entity id 22679 at ([LameWorld]305.57017677889326, 66.0, 390.20145800127614)
+[16:35:40] [Server thread/INFO]: techkid has made the advancement [Sweet Dreams]
+[16:49:41] [Server thread/INFO]: techkid lost connection: Disconnected
+[16:49:41] [Server thread/INFO]: techkid left the game

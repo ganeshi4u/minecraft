@@ -241,7 +241,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "porkchop": "2019-07-31 17:49:16 +0000"
+      "porkchop": "2019-07-31 17:49:16 +0000",
+      "bread": "2019-08-03 16:39:16 +0000",
+      "salmon": "2019-08-03 16:38:58 +0000",
+      "cod": "2019-08-03 16:39:01 +0000"
     },
     "done": false
   },
@@ -488,6 +491,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2019-07-31 17:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2019-08-03 16:35:40 +0000"
     },
     "done": true
   },
