@@ -491,6 +491,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-08-05 12:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2019-08-05 12:10:00 +0000",
+      "iron_chestplate": "2019-08-05 12:10:00 +0000",
+      "iron_leggings": "2019-08-05 12:10:00 +0000",
+      "iron_helmet": "2019-08-05 12:10:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2019-08-01 15:49:46 +0000"
@@ -765,6 +780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-08-05 12:19:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-01 20:49:34 +0000"
@@ -804,6 +825,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2019-08-01 15:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-08-05 12:59:00 +0000"
     },
     "done": true
   },
@@ -1252,7 +1279,8 @@
       "minecraft:deep_cold_ocean": "2019-08-01 20:02:55 +0000",
       "minecraft:beach": "2019-08-01 14:54:09 +0000",
       "minecraft:river": "2019-08-01 15:01:29 +0000",
-      "minecraft:wooded_hills": "2019-08-01 14:30:23 +0000"
+      "minecraft:wooded_hills": "2019-08-01 14:30:23 +0000",
+      "minecraft:swamp": "2019-08-05 12:21:54 +0000"
     },
     "done": false
   },
@@ -1385,6 +1413,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2019-08-01 20:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-08-05 12:19:21 +0000"
     },
     "done": true
   },
