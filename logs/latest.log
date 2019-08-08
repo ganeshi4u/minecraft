@@ -1,7 +1,28 @@
-[14:53:49] [User Authenticator #35/INFO]: UUID of player sanoj is 673a3ab2-f840-3fd7-9a8a-154eb33e8bd1
-[14:53:49] [Server thread/INFO]: sanoj[/1.22.51.38:50695] logged in with entity id 34199 at ([LameWorld]40.69999998807907, 68.0, 241.30000001192093)
-[14:54:52] [Server thread/INFO]: sanoj was slain by Spider
-[15:00:14] [Server thread/INFO]: sanoj has made the advancement [Monster Hunter]
-[15:11:42] [Server thread/INFO]: sanoj was slain by Spider
-[15:11:54] [Server thread/INFO]: sanoj lost connection: Disconnected
-[15:11:54] [Server thread/INFO]: sanoj left the game
+[12:45:04] [User Authenticator #36/INFO]: UUID of player TurboVirgin is b219e6d0-ba9b-31e4-8fbb-317593d757c7
+[12:45:05] [Server thread/INFO]: TurboVirgin[/223.189.3.94:2880] logged in with entity id 35866 at ([LameWorld]115.86936316784218, 61.0, 294.2914582554664)
+[12:49:36] [Server thread/INFO]: TurboVirgin has made the advancement [Fishy Business]
+[14:03:25] [Server thread/INFO]: TurboVirgin has made the advancement [Best Friends Forever]
+[14:03:53] [Server thread/INFO]: TurboVirgin has made the advancement [Voluntary Exile]
+[14:37:59] [Server thread/INFO]: TurboVirgin lost connection: Disconnected
+[14:37:59] [Server thread/INFO]: TurboVirgin left the game
+[14:38:01] [User Authenticator #37/INFO]: UUID of player TurboVirgin is b219e6d0-ba9b-31e4-8fbb-317593d757c7
+[14:38:01] [Server thread/INFO]: TurboVirgin[/223.189.3.94:3242] logged in with entity id 45425 at ([LameWorld]220.74890495822623, 64.0, 321.01497123132503)
+[15:13:19] [Server thread/INFO]: TurboVirgin lost connection: Disconnected
+[15:13:19] [Server thread/INFO]: TurboVirgin left the game
+[17:29:35] [User Authenticator #38/INFO]: UUID of player TurboVirgin is b219e6d0-ba9b-31e4-8fbb-317593d757c7
+[17:29:35] [Server thread/INFO]: TurboVirgin[/223.189.3.94:3175] logged in with entity id 48320 at ([LameWorld]114.5977396541636, 61.0, 294.63798701647926)
+[17:43:20] [Server thread/INFO]: TurboVirgin lost connection: Disconnected
+[17:43:20] [Server thread/INFO]: TurboVirgin left the game
+[17:43:22] [User Authenticator #39/INFO]: UUID of player TurboVirgin is b219e6d0-ba9b-31e4-8fbb-317593d757c7
+[17:43:22] [Server thread/INFO]: TurboVirgin[/223.189.3.94:3259] logged in with entity id 49716 at ([LameWorld]307.50754393211173, 67.0, 333.5110685148599)
+[17:49:08] [Server thread/INFO]: TurboVirgin lost connection: Disconnected
+[17:49:08] [Server thread/INFO]: TurboVirgin left the game
+[17:49:10] [User Authenticator #40/INFO]: UUID of player TurboVirgin is b219e6d0-ba9b-31e4-8fbb-317593d757c7
+[17:49:10] [Server thread/INFO]: TurboVirgin[/223.189.3.94:2826] logged in with entity id 50179 at ([LameWorld]150.51813095857526, 63.0, 271.40447602958324)
+[17:51:04] [Server thread/WARN]: Boat moved wrongly!
+[17:58:58] [Server thread/INFO]: TurboVirgin lost connection: Timed out
+[17:58:58] [Server thread/INFO]: TurboVirgin left the game
+[17:59:19] [User Authenticator #41/INFO]: UUID of player TurboVirgin is b219e6d0-ba9b-31e4-8fbb-317593d757c7
+[17:59:19] [Server thread/INFO]: TurboVirgin[/223.189.3.94:2925] logged in with entity id 50708 at ([LameWorld]116.83176484960505, 68.56620823175575, 284.30890435972333)
+[17:59:31] [Server thread/INFO]: TurboVirgin lost connection: Disconnected
+[17:59:31] [Server thread/INFO]: TurboVirgin left the game
