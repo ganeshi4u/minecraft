@@ -1,15 +1,97 @@
-[06:33:20] [User Authenticator #42/INFO]: UUID of player TurboVirgin is b219e6d0-ba9b-31e4-8fbb-317593d757c7
-[06:33:20] [Server thread/INFO]: TurboVirgin[/223.189.3.94:3084] logged in with entity id 50724 at ([LameWorld]116.83176484960505, 67.5, 284.30890435972333)
-[06:46:38] [Server thread/INFO]: TurboVirgin has made the advancement [Sweet Dreams]
-[06:53:27] [Server thread/INFO]: TurboVirgin has made the advancement [The Parrots and the Bats]
-[07:16:15] [Server thread/INFO]: TurboVirgin lost connection: Timed out
-[07:16:15] [Server thread/INFO]: TurboVirgin left the game
-[07:17:46] [User Authenticator #43/INFO]: UUID of player TurboVirgin is b219e6d0-ba9b-31e4-8fbb-317593d757c7
-[07:17:47] [Server thread/INFO]: TurboVirgin[/223.189.3.94:2959] logged in with entity id 55072 at ([LameWorld]53.69999998807907, 59.0, 560.394391607213)
-[07:34:39] [Server thread/INFO]: TurboVirgin lost connection: Disconnected
-[07:34:39] [Server thread/INFO]: TurboVirgin left the game
-[12:44:04] [User Authenticator #44/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
-[12:44:04] [Server thread/INFO]: RemiNaz[/116.68.73.200:13240] logged in with entity id 56495 at ([LameWorld]207.58118646799142, 77.0, -8.284764827441371)
-[12:45:31] [Server thread/INFO]: RemiNaz hit the ground too hard
-[12:47:56] [Server thread/INFO]: RemiNaz lost connection: Timed out
-[12:47:56] [Server thread/INFO]: RemiNaz left the game
+[05:16:58] [User Authenticator #45/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[05:16:58] [Server thread/INFO]: RemiNaz[/116.68.73.56:7811] logged in with entity id 56982 at ([LameWorld]101.10552508806282, 69.0, 273.10972351346277)
+[05:23:39] [Server thread/INFO]: RemiNaz lost connection: Disconnected
+[05:23:39] [Server thread/INFO]: RemiNaz left the game
+[05:30:32] [User Authenticator #46/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[05:30:32] [Server thread/INFO]: RemiNaz[/116.68.73.56:49438] logged in with entity id 57427 at ([LameWorld]99.62158354317017, 62.0, 291.1618179923763)
+[05:47:20] [Server thread/INFO]: RemiNaz was slain by Zombie
+[05:49:34] [Server thread/INFO]: RemiNaz was shot by Skeleton
+[05:50:41] [Server thread/INFO]: RemiNaz was blown up by Creeper
+[06:08:22] [Server thread/INFO]: RemiNaz lost connection: Disconnected
+[06:08:22] [Server thread/INFO]: RemiNaz left the game
+[06:12:13] [User Authenticator #47/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[06:12:13] [Server thread/INFO]: RemiNaz[/116.68.73.56:8330] logged in with entity id 59781 at ([LameWorld]159.23636244473997, 64.0, 252.93686993859285)
+[06:31:27] [Server thread/INFO]: RemiNaz was shot by Skeleton
+[06:37:32] [Server thread/WARN]: Boat moved wrongly!
+[06:37:32] [Server thread/WARN]: Boat moved wrongly!
+[06:37:32] [Server thread/WARN]: Boat moved wrongly!
+[06:37:32] [Server thread/WARN]: Boat moved wrongly!
+[06:37:33] [Server thread/WARN]: Boat moved wrongly!
+[06:37:33] [Server thread/WARN]: Boat moved wrongly!
+[06:37:33] [Server thread/WARN]: Boat moved wrongly!
+[06:37:33] [Server thread/WARN]: Boat moved wrongly!
+[06:37:33] [Server thread/WARN]: Boat moved wrongly!
+[06:37:33] [Server thread/WARN]: Boat moved wrongly!
+[06:37:33] [Server thread/WARN]: Boat moved wrongly!
+[06:37:33] [Server thread/WARN]: Boat moved wrongly!
+[06:47:27] [Server thread/WARN]: Boat (vehicle of RemiNaz) moved too quickly! -3.70196302864116,0.0,-19.88584834123003
+[06:47:27] [Server thread/WARN]: Boat (vehicle of RemiNaz) moved too quickly! -3.9088090261788295,0.0,-20.221352288315757
+[06:47:27] [Server thread/WARN]: Boat (vehicle of RemiNaz) moved too quickly! -4.110203321051358,0.0,-20.56029175529875
+[06:47:27] [Server thread/WARN]: Boat (vehicle of RemiNaz) moved too quickly! -4.30615049653548,0.0,-20.90254124252442
+[06:47:27] [Server thread/WARN]: Boat (vehicle of RemiNaz) moved too quickly! -4.496708933639383,0.0,-21.247958150720933
+[06:47:27] [Server thread/WARN]: Boat (vehicle of RemiNaz) moved too quickly! -4.681975579798063,0.0,-21.596390656317226
+[06:52:27] [Server thread/WARN]: Boat (vehicle of RemiNaz) moved too quickly! 11.369323565903642,0.0,-16.54810797410414
+[06:52:27] [Server thread/WARN]: Boat (vehicle of RemiNaz) moved too quickly! 11.379755259742922,0.0,-16.941462011136196
+[06:52:27] [Server thread/WARN]: Boat (vehicle of RemiNaz) moved too quickly! 11.385719533195925,0.0,-17.33533379815026
+[06:52:27] [Server thread/WARN]: Boat (vehicle of RemiNaz) moved too quickly! 11.387517958268688,0.0,-17.729658819642964
+[06:52:27] [Server thread/WARN]: Boat (vehicle of RemiNaz) moved too quickly! 11.385433452524524,0.0,-18.124379548104685
+[06:52:27] [Server thread/WARN]: Boat (vehicle of RemiNaz) moved too quickly! 11.379735952706824,0.0,-18.519445229507596
+[06:52:27] [Server thread/WARN]: Boat (vehicle of RemiNaz) moved too quickly! 11.370679884387016,0.0,-18.914810967538756
+[06:52:27] [Server thread/WARN]: Boat (vehicle of RemiNaz) moved too quickly! 11.3585018902358,0.0,-19.31043683980556
+[06:52:27] [Server thread/WARN]: Boat (vehicle of RemiNaz) moved too quickly! 11.343430231654736,0.0,-19.70628824980929
+[07:02:53] [Server thread/INFO]: RemiNaz has made the advancement [Sweet Dreams]
+[07:15:23] [Server thread/WARN]: Boat moved wrongly!
+[07:38:24] [Server thread/INFO]: RemiNaz lost connection: Disconnected
+[07:38:24] [Server thread/INFO]: RemiNaz left the game
+[08:47:34] [User Authenticator #48/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[08:47:34] [Server thread/INFO]: RemiNaz[/116.68.73.56:22803] logged in with entity id 70196 at ([LameWorld]155.29999997466803, 64.0000002, 250.29999997466803)
+[08:54:05] [Server thread/WARN]: RemiNaz moved wrongly!
+[09:26:25] [Server thread/INFO]: RemiNaz lost connection: Disconnected
+[09:26:25] [Server thread/INFO]: RemiNaz left the game
+[14:07:58] [User Authenticator #49/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[14:07:58] [Server thread/INFO]: RemiNaz[/116.68.73.56:26562] logged in with entity id 73311 at ([LameWorld]159.43048977837927, 63.0, 267.72390111731306)
+[14:19:58] [Server thread/WARN]: RemiNaz was kicked for floating too long!
+[14:19:58] [Server thread/INFO]: RemiNaz lost connection: Flying is not enabled on this server
+[14:19:58] [Server thread/INFO]: RemiNaz left the game
+[14:34:38] [User Authenticator #50/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[14:34:38] [Server thread/INFO]: RemiNaz[/116.68.73.56:65098] logged in with entity id 74011 at ([LameWorld]159.16285840837534, 68.48305205089503, 248.39384244563504)
+[14:51:47] [Server thread/INFO]: RemiNaz hit the ground too hard
+[14:52:20] [Server thread/INFO]: RemiNaz lost connection: Timed out
+[14:52:20] [Server thread/INFO]: RemiNaz left the game
+[14:52:59] [User Authenticator #51/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[14:52:59] [Server thread/INFO]: RemiNaz[/116.68.73.56:59131] logged in with entity id 74969 at ([LameWorld]160.5, 64.0000002, 253.5)
+[15:04:39] [Server thread/INFO]: RemiNaz lost connection: Timed out
+[15:04:39] [Server thread/INFO]: RemiNaz left the game
+[15:05:13] [User Authenticator #52/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[15:05:14] [Server thread/INFO]: RemiNaz[/116.68.73.56:34008] logged in with entity id 75637 at ([LameWorld]158.7574646026896, 69.58307781780647, 249.98513457611375)
+[15:26:02] [Server thread/INFO]: RemiNaz hit the ground too hard
+[15:26:30] [Server thread/INFO]: RemiNaz lost connection: Timed out
+[15:26:30] [Server thread/INFO]: RemiNaz left the game
+[15:26:54] [User Authenticator #53/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[15:26:55] [Server thread/INFO]: RemiNaz[/116.68.73.56:6477] logged in with entity id 76847 at ([LameWorld]161.18713734851414, 64.0, 260.69999998807907)
+[15:34:00] [Server thread/INFO]: RemiNaz lost connection: Timed out
+[15:34:00] [Server thread/INFO]: RemiNaz left the game
+[15:34:46] [User Authenticator #54/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[15:34:46] [Server thread/INFO]: RemiNaz[/116.68.73.56:49540] logged in with entity id 77144 at ([LameWorld]156.76975414998836, 63.0, 265.4214509804298)
+[15:35:11] [Server thread/INFO]: RemiNaz lost connection: Timed out
+[15:35:11] [Server thread/INFO]: RemiNaz left the game
+[15:35:43] [User Authenticator #55/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[15:35:43] [Server thread/INFO]: RemiNaz[/116.68.73.56:30895] logged in with entity id 77182 at ([LameWorld]156.76975414998836, 63.0, 265.4214509804298)
+[15:36:08] [Server thread/INFO]: RemiNaz lost connection: Timed out
+[15:36:08] [Server thread/INFO]: RemiNaz left the game
+[15:39:08] [User Authenticator #56/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[15:39:08] [Server thread/INFO]: RemiNaz[/116.68.73.56:3944] logged in with entity id 77187 at ([LameWorld]156.76975414998836, 63.0, 265.4214509804298)
+[15:39:33] [Server thread/INFO]: RemiNaz lost connection: Timed out
+[15:39:33] [Server thread/INFO]: RemiNaz left the game
+[16:17:23] [User Authenticator #57/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[16:17:23] [Server thread/INFO]: RemiNaz[/116.68.73.56:20858] logged in with entity id 77234 at ([LameWorld]156.76975414998836, 63.0, 265.4214509804298)
+[16:17:48] [Server thread/INFO]: RemiNaz lost connection: Timed out
+[16:17:48] [Server thread/INFO]: RemiNaz left the game
+[16:18:22] [User Authenticator #58/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[16:18:22] [Server thread/INFO]: RemiNaz[/116.68.73.56:33913] logged in with entity id 77246 at ([LameWorld]156.76975414998836, 63.0, 265.4214509804298)
+[16:18:43] [Server thread/INFO]: RemiNaz lost connection: Disconnected
+[16:18:43] [Server thread/INFO]: RemiNaz left the game
+[18:25:51] [User Authenticator #59/INFO]: UUID of player RemiNaz is 8a00594d-c5e0-3042-99ea-1ec5f5524455
+[18:25:51] [Server thread/INFO]: RemiNaz[/116.68.73.56:24656] logged in with entity id 77251 at ([LameWorld]156.76975414998836, 63.0, 265.4214509804298)
+[18:48:51] [Server thread/INFO]: RemiNaz lost connection: Disconnected
+[18:48:51] [Server thread/INFO]: RemiNaz left the game
